@@ -1,0 +1,6 @@
+export const APP = 'APP'
+export const PROJECT = 'PROJECT'
+export const ISSUE = 'ISSUE'
+export const ACCOUNT = 'ACCOUNT'
+export const ISSUE_DETAIL = 'ISSUE_DETAIL'
+export const ISSUE_ADD = 'ISSUE_ADD'

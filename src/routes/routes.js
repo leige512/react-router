@@ -1,0 +1,6 @@
+export const PATH_APP = '/app'
+export const PATH_PROJECT = '/project'
+export const PATH_ISSUE = '/issue'
+export const PATH_ACCOUNT = '/account'
+export const PATH_ISSUE_DETAIL = '/issueDetail'
+export const PATH_ISSUE_ADD = '/issueAdd'
